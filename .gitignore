@@ -1,0 +1,9 @@
+
+.settings
+.project
+.classpath
+.htaccess
+.idea/
+*.iml
+*.log
+/target/
